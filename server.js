@@ -1,3 +1,5 @@
+//to run this: npm run start:backend
+
 const PORT = 8000
 const express = require('express')
 const cors = require('cors')

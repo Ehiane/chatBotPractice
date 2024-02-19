@@ -1,4 +1,5 @@
 
+//to run this: npm run start:frontend
 import { useState, useEffect } from "react"
 
 
